@@ -1,5 +1,4 @@
-# FlareHub-Languages
+# FlareHub Bypass Anti-Cheat And Anti Hack
 
-Contributing rules:
-- Please don't use google translate (or any other kind).
-- Make sure everything is correct.
+No Rules
+
